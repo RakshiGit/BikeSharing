@@ -1,6 +1,11 @@
 # Project Name
 > Bike Sharing
 
+I have submitted two files. Each one contains one analysis. 
+BikeSharing_Manual.ipynb has analysis done by manually eliminating the variables and arriving at a good R2.
+BikeSharing_RFE.ipynb has analysis done by eliminating variables using RFE method. 
+
+
 ## Table of Contents
 * [General Info]
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
